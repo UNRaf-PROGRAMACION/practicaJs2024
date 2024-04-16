@@ -1,4 +1,4 @@
-# practicaJs2023
+# practicaJs2024
 
 Para experimentar en clases
 
@@ -10,7 +10,7 @@ Esta extensión permitirá ejecutar codigo JavaScript sin depender de cualquier 
 
 ## Temas involucrados
 
-- console.log / alert
+- console.log
 - Constantes y variables. Asignar y acumular.
 - Tipos de datos: numericos / caracteres / array / objectos literales
 - Operaciones con numeros.
